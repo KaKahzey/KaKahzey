@@ -26,6 +26,7 @@ Nonetheless, these ones, even if short, showcase some concepts and technologies 
   These are my primary projects, and I have two significant ones in the pipeline for the coming months. One will be a collaborative effort with a team, and the other I'll be working on individually. Thanks for taking the time to read!
 </p>
 
+<a href="https://www.linkedin.com/in/julien-noël-dotnet-angular-csharp-react-javascript-python-typescript-js-ts"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <!--
 **KaKahzey/KaKahzey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
