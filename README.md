@@ -1,4 +1,4 @@
-Hello there 👋
+<h2>👋 Welcome</h2>
 
 I'm currently in training, all projects are simply exercices. <br/>
 Nonetheless, these ones, even if short, showcase some concepts and technologies I've learned and managed to use.
