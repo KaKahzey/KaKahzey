@@ -1,4 +1,6 @@
 ### Hi there 👋
+Je suis actuellement en formation, tous les projets sont des exercices. 
+I'm currently in training, all projects are simply exercices.
 
 <!--
 **KaKahzey/KaKahzey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
