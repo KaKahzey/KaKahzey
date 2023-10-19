@@ -1,5 +1,5 @@
 ### Hi there 👋
-Je suis actuellement en formation, tous les projets sont des exercices. <br />
+Je suis actuellement en formation, tous les projets sont des exercices. <br/>
 I'm currently in training, all projects are simply exercices.
 
 <!--
